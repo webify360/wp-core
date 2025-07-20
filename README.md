@@ -1,2 +1,3 @@
-# wp-core-frame
-WPCoreFrame is a WordPress plugin development framework that helps naturally write cleaner, more maintainable code with the idea of "convention over configurations".
+# WPDevCore Framework
+
+The framework repository of WPDevCore contains the core classes.
